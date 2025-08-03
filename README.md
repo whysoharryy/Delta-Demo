@@ -12,5 +12,10 @@ git add index.html : Adds to staged state(Middle stage between commit and modifi
 git add .          : Adds all files to staged state
 git status            
 
-#commit
+# commit
 syntax : git commit -m "any msg"
+all these are done in own system
+
+# push
+To make changes of local repo to remote repo
+syntax: git push origin main
