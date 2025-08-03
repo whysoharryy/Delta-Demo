@@ -1,2 +1,2 @@
 # Delta-Demo
-For learning Git and Github
+For learning Git & Github.
