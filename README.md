@@ -17,6 +17,9 @@ git config --global user.email "sreeharirajendran09@gmail.com"
 # pwd=print working directory, cd = change directory ,rm=remove 
 # terminal :-a= to access hidden files,ls=list directory
 
+# To Connect with remote repo from local
+git remote add "https://github.com/whysoharryy/Delta-Demo.git"
+
 # clone
 cd Delta-Demo   (Always do)
 git clone "https-link" : copy from github
