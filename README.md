@@ -18,7 +18,11 @@ git config --global user.email "sreeharirajendran09@gmail.com"
 # terminal :-a= to access hidden files,ls=list directory
 
 # To Connect with remote repo from local
-git remote add "https://github.com/whysoharryy/Delta-Demo.git"
+git init (Make sure your git is initialized)
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/whysoharryy/Delta-Demo.git
+git push -u origin main (git push origin main)
 
 # clone
 cd Delta-Demo   (Always do)
