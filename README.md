@@ -23,7 +23,7 @@ git clone "https-link" : copy from github
 While making these changes file color is change to orange shows Modification
 
 # status
-add>commit
+add->commit
 git add index.html : Adds to staged state(Middle stage between commit and modified)
 git add .          : Adds all files to staged state
 git status            
